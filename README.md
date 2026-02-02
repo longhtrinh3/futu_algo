@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="FutuAlgo Logo" src="https://raw.githubusercontent.com/billpwchan/futu_algo/master/images/logo.png" width="400px" />
 
-**billpwchan/futu-algo API Reference Documentation**.
+**billpwchan/futu-algo API Reference Documentation**..
 
 <a href="https://www.buymeacoffee.com/billpwchan98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
